@@ -1,28 +1,8 @@
-== README
+This application models around a simple pizza ordering application.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+As of now users are able to view what set flavors the pizza have.
+Eventually will move to allowing users to create their own
+based on available ingredients. Also, users will able to
+make their own account and keep history of the pizzas they ordered,
+therefore, if they want to order that flavor again they can re-order it 
+without having to re-create the flavor.
